@@ -1,0 +1,30 @@
+Information on Group 5 (Set E & Set C) Patterns
+Time Tolerance = 0.10	Threshold = 1.40	Win Size = 256
+
+Rate-->  	P(M)	P(O)	P(I)
+	./Set-E/ 0075	0.75 	0.25 	-0.20
+	./Set-E/ 1206	0.88 	0.12 	0.12
+	./Set-E/ 2433	1.00 	0.00 	0.20
+	./Set-E/ 3630	1.00 	0.00 	0.00
+	./Set-E/ 4137	0.88 	0.12 	0.36
+	./Set-E/ 5580	1.00 	0.00 	0.11
+	./Set-E/ 6255	1.00 	0.00 	0.11
+	./Set-E/ 7565	0.88 	0.12 	0.12
+	./Set-E/ 8299	1.00 	0.00 	0.11
+	./Set-E/ 9472	0.88 	0.12 	0.22
+	./Set-C/ 0075	0.88 	0.12 	0.22
+	./Set-C/ 1206	0.88 	0.12 	0.22
+	./Set-C/ 2433	0.75 	0.25 	0.25
+	./Set-C/ 3630	1.00 	0.00 	0.11
+	./Set-C/ 4137	0.62 	0.38 	0.44
+	./Set-C/ 5580	0.62 	0.38 	0.00
+	./Set-C/ 6255	0.88 	0.12 	0.00
+	./Set-C/ 7565	0.88 	0.12 	-0.17
+	./Set-C/ 8299	0.62 	0.38 	0.00
+	./Set-C/ 9472	0.75 	0.25 	0.00
+
+
+Total P: 160 Total N: 159 Total M: 137
+Total Match Rate = 0.86
+Total Omission Rate = 0.14
+Total Insertion Rate = 0.14
